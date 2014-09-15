@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CareerInfo</string>
+    <string name="action_settings">Settings</string>
+    <string name="list">北京邮电大学近期宣讲会场地安排表</string>
+    <string name="connect_error">亲，请确认打开网络连接~</string>
+</resources>
